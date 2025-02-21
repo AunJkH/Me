@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pres1X
 - 📫 我的博客: https://blog.csdn.net/m0_75046593?spm=1000.2115.3001.5343
 - 🍿 在读hangzhou某大学的网络安全与某某专业
-- 😍 Dream to be good at Cyber Security
+- 😍 Java、apk、Springboot、取证学习
 - 💕 希望多和各位师傅交流!!!
   
  
