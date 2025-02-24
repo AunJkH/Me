@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pres1X
 - 📫 我的博客: https://blog.csdn.net/m0_75046593?spm=1000.2115.3001.5343
 - 🍿 在读hangzhou某大学
-- 😍 JAVA、SpringBoot网站、apk逆向
+- 😍 服务器取证、Java、Python
 - 💕 希望多和各位师傅交流!!!
   
  
