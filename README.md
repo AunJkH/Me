@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AunJkH
 - 📫 我的博客: https://blog.csdn.net/m0_75046593?spm=1000.2115.3001.5343
 - 🍿 在读杭州某大学
-- 😍 服务器取证、Java、Python
+- 😍 服务器取证、Java、Python、大模型研究
 - 💕 希望多和各位师傅交流!!!
   
  
