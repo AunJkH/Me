@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @AunJkH
 - 🍿 杭州某大学在读
 - 😍 电子数据取证技术
-- 😁 哈哈哈和hhh
+- 😁 bilibili:https://space.bilibili.com/509002369?spm_id_from=333.1007.0.0
+- 👍 CSDN:https://blog.csdn.net/m0_75046593?spm=1000.2115.3001.5343
   
  
-<!---
-Pres1X/Pres1X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
